@@ -1,0 +1,5 @@
+KFC,kfc@gmail.com,0123456789,kfcmalaysia@123
+McDonald,mcd@gmail.com,0123456789,mcdonald@123
+Pizza Hut,pizzahut@gmail.com,0123456778,pizzahut@123
+a,a@123gmail.com,01158878809,Sensen_7024
+abc,abc123@gmail.com,0111234567,Abc1234567
